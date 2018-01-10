@@ -1,0 +1,15 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/* Centre the page */
+.body {
+  display:block;
+  margin:0 auto;
+  width:720px;
+}
+
+.container{
+  max-width: 720px;
+}
+
+.inputhere { display:none;}
+
